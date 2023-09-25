@@ -1,0 +1,32 @@
+
+   Table -2
+   
+<Employee>
+   <SL.NO>23</SL.NO>
+   <Name>JhonCarter</Name>
+   <admission>
+     <day>25</day>
+	 <month>01</month>
+	 <year>2015</year>
+   </admission>
+</Employee>
+
+<Employee>
+   <SL.NO>29</SL.NO>
+   <Name>Bob Marshal</Name>
+   <admission>
+     <day>13</day>
+	 <month>01</month>
+	 <year>1999</year>
+   </admission>
+</Employee>
+
+<Employee>
+   <SL.NO>35</SL.NO>
+   <Name>Clark Kent</Name>
+   <admission>
+     <day>17</day>
+	 <month>06</month>
+	 <year>2005</year>
+   </admission>
+</Employee>

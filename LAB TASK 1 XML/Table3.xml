@@ -1,0 +1,46 @@
+ Table-3
+
+<Employee_Information>
+ <ID>1</ID> 
+ <name>Jhon Doe</name>
+ <Address>
+     <flat_no></flat_no>
+	 <house_no>H#38</house_no>
+	 <road_no>R#3</road_no>
+	 <area>Banani</area>
+	 <district>Dhaka</district>
+ </Address>
+ <department>Sales</department>
+ <salary>$20000</salary>
+  
+</Employee_Information>
+
+<Employee_Information>
+ <ID>2</ID> 
+ <name>Mark Zuckerberg</name>
+ <Address>
+     <flat_no>Flat# A/1</flat_no>
+	 <house_no>H#20</house_no>
+	 <road_no>R#18</road_no>
+	 <area>Mirpur</area>
+	 <district>Dhaka</district>
+ </Address>
+ <department>Accounts</department>
+ <salary>$12000</salary>
+  
+</Employee_Information>
+
+<Employee_Information>
+ <ID>3</ID> 
+ <name>Ala Voski</name>
+ <Address>
+     <flat_no></flat_no>
+	 <house_no>H#38</house_no>
+	 <road_no>R#3</road_no>
+	 <area>Motijheel</area>
+	 <district></district>
+ </Address>
+ <department>Human Resource</department>
+ <salary>$30000</salary>
+  
+</Employee_Information>
